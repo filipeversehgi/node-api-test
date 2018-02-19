@@ -14,8 +14,12 @@
   "author": "filipeversehgi",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "bookshelf": "^0.12.1",
     "consign": "^0.1.6",
     "express": "^4.16.2",
+    "knex": "^0.13.0",
+    "mysql": "^2.15.0",
     "nodemon": "^1.15.0"
   }
 }
